@@ -3,7 +3,7 @@ window.wander = {
   consoles: [
     'https://mufeth7.github.io/wander-console/',
     'https://karthikeyan2k3.github.io/wander-console/',
-    'https://susam.net/wander/wander.js'
+    'https://susam.net/wander/'
   ],
   // Websites and pages I recommend to other wanderers.
   pages: [
